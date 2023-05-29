@@ -1,0 +1,15 @@
+C:\workspace\salary-increase-PT\salary-increase-portuguese\bin\Debug\net6.0\salary-increase-portuguese.exe
+C:\workspace\salary-increase-PT\salary-increase-portuguese\bin\Debug\net6.0\salary-increase-portuguese.deps.json
+C:\workspace\salary-increase-PT\salary-increase-portuguese\bin\Debug\net6.0\salary-increase-portuguese.runtimeconfig.json
+C:\workspace\salary-increase-PT\salary-increase-portuguese\bin\Debug\net6.0\salary-increase-portuguese.dll
+C:\workspace\salary-increase-PT\salary-increase-portuguese\bin\Debug\net6.0\salary-increase-portuguese.pdb
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\salary-increase-portuguese.csproj.AssemblyReference.cache
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\salary-increase-portuguese.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\salary-increase-portuguese.AssemblyInfoInputs.cache
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\salary-increase-portuguese.AssemblyInfo.cs
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\salary-increase-portuguese.csproj.CoreCompileInputs.cache
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\salary-increase-portuguese.dll
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\refint\salary-increase-portuguese.dll
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\salary-increase-portuguese.pdb
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\salary-increase-portuguese.genruntimeconfig.cache
+C:\workspace\salary-increase-PT\salary-increase-portuguese\obj\Debug\net6.0\ref\salary-increase-portuguese.dll
